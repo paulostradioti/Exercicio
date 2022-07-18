@@ -1,0 +1,15 @@
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\bin\Debug\net6.0\Reflection1407.exe
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\bin\Debug\net6.0\Reflection1407.deps.json
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\bin\Debug\net6.0\Reflection1407.runtimeconfig.json
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\bin\Debug\net6.0\Reflection1407.dll
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\bin\Debug\net6.0\Reflection1407.pdb
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\Reflection1407.csproj.AssemblyReference.cache
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\Reflection1407.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\Reflection1407.AssemblyInfoInputs.cache
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\Reflection1407.AssemblyInfo.cs
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\Reflection1407.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\Reflection1407.dll
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\refint\Reflection1407.dll
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\Reflection1407.pdb
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\Reflection1407.genruntimeconfig.cache
+C:\Users\Isabella\Desktop\Coding Tank\POO 2\Reflection1407\Reflection1407\obj\Debug\net6.0\ref\Reflection1407.dll
